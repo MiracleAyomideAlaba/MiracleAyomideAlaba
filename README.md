@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiracleAyomideAlaba
-- 👀 I’m interested in working as a full time freelancer.
-- 🌱 I’m currently learning UX design
+- 👀 I’m interested in working as a full time freelancer
+- 🌱 I’m currently learning hacking
 - 💞️ I’m looking to collaborate on any blockchain development project
 - 📫 How to reach me ... MiracleAyomideAlaba1230@gmail.com
 
